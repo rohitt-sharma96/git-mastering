@@ -14,3 +14,5 @@ console.log('Hello from dev-rohit')
 //CODE
 
 // This is code for checking the git fetch command
+
+//FETCH COMMAND 2 'from dev-rohit'
